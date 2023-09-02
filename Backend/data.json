@@ -1,0 +1,24 @@
+{
+    "names": [
+      "Jack Reacher",
+      "Alice Johnson",
+      "Bob Smith",
+      "Eve Anderson",
+      "John Doe"
+    ],
+    "origins": [
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "San Francisco",
+      "Miami"
+    ],
+    "destinations": [
+      "London",
+      "Paris",
+      "Tokyo",
+      "Sydney",
+      "Berlin"
+    ]
+  }
+  
